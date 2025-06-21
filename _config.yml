@@ -8,19 +8,19 @@ version: 2
 # Personal info
 name: Yan
 title: Assistant Vice President
-email: Your email (optional)
+# email: Your email (optional)
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: https://coffeerp.github.io/
+website_title: Website
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  coffeerP
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
